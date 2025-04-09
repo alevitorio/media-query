@@ -1,6 +1,3 @@
-Fechado! 😄 Vamos montar um conteúdo teórico completo, claro, didático e **rico visualmente com emojis**, pra explicar `min-width` e `max-width` com base **na tabela que você elogiou** (e não na imagem feia, pode deixar 😅).
-
----
 
 ## 📱💻 CSS Media Queries: `min-width` vs `max-width`
 
@@ -90,7 +87,3 @@ Use essa lógica mental sempre que for montar seu CSS responsivo:
 - 🔹 Use `max-width` se quiser **pensar no desktop primeiro** e depois adaptar pro mobile.
 - 🔹 Evite misturar as duas no mesmo componente (pode dar conflito).
 - 🔹 Comece pequeno → escale com responsabilidade. 😉
-
----
-
-Se quiser, posso te ajudar a montar um layout de exemplo ou colocar isso formatadinho com Markdown pronto pra README. Quer o código já com sintaxe `markdown` certinha?
